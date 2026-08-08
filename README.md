@@ -319,7 +319,6 @@ Currently unlicensed — add MIT / Apache 2.0 if you decide to open-source. *(Fo
 *Product Manager in the making, builder by night.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-NishantDas0079-181717?style=for-the-badge&logo=github)](https://github.com/NishantDas0079)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nishantdas0079)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-InsureX-4F46E5?style=for-the-badge)](https://insurex-ai-insurance-ruwe.bolt.host/)
 
 *If InsureX made you rethink insurance, ⭐ the repo — it means a lot.*
